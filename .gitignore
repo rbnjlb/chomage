@@ -1,0 +1,15 @@
+# Python
+env/
+venv/
+__pycache__/
+*.json
+*.pyc
+
+# OSgit add unemployment.py requirements.txt README.md .gitignore
+git commit -m "Initial commit: unemployment analysis"
+
+
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/

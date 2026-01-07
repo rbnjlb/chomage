@@ -1,0 +1,64 @@
+# ===========================
+# ⚙️ CORE SCIENTIFIC ENVIRONMENT
+# ===========================
+numpy
+pandas
+scipy
+sympy
+mpmath
+statsmodels
+patsy
+linearmodels
+arch
+econml
+
+# ===========================
+# 📊 DATA VISUALIZATION
+# ===========================
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+
+# ===========================
+# 🤖 MACHINE LEARNING / AI
+# ===========================
+scikit-learn
+xgboost
+lightgbm
+catboost
+tensorflow
+torch
+torchvision
+torchaudio
+
+# ===========================
+# 📐 MATHEMATICAL / PHYSICS LIBRARIES
+# ===========================
+numba
+cython
+networkx
+shapely
+geopandas
+uncertainties
+astropy
+quantecon
+cvxpy
+pulp
+symengine
+polars
+
+# ===========================
+# 🧠 SCIENTIFIC COMPUTING UTILITIES
+# ===========================
+tqdm
+joblib
+requests
+beautifulsoup4
+openpyxl
+pyarrow
+h5py
+tables
+requests
+pycountry
